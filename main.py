@@ -1,1 +1,2 @@
-print("Olá, mundo!")
+nome = "Usuário"
+print(f"Olá, {nome}!")
